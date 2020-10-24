@@ -1,0 +1,10 @@
+C:\Users\Jusuf\Desktop\IgraX-O\IgraX-O\bin\Debug\IgraX-O.exe.config
+C:\Users\Jusuf\Desktop\IgraX-O\IgraX-O\bin\Debug\IgraX-O.exe
+C:\Users\Jusuf\Desktop\IgraX-O\IgraX-O\bin\Debug\IgraX-O.pdb
+C:\Users\Jusuf\Desktop\IgraX-O\IgraX-O\obj\Debug\IgraX-O.csprojAssemblyReference.cache
+C:\Users\Jusuf\Desktop\IgraX-O\IgraX-O\obj\Debug\IgraX_O.Form1.resources
+C:\Users\Jusuf\Desktop\IgraX-O\IgraX-O\obj\Debug\IgraX_O.Properties.Resources.resources
+C:\Users\Jusuf\Desktop\IgraX-O\IgraX-O\obj\Debug\IgraX-O.csproj.GenerateResource.cache
+C:\Users\Jusuf\Desktop\IgraX-O\IgraX-O\obj\Debug\IgraX-O.csproj.CoreCompileInputs.cache
+C:\Users\Jusuf\Desktop\IgraX-O\IgraX-O\obj\Debug\IgraX-O.exe
+C:\Users\Jusuf\Desktop\IgraX-O\IgraX-O\obj\Debug\IgraX-O.pdb
